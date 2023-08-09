@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@teachablemachine/image": "^0.8.5",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
+    "jimp": "^0.22.10",
     "next": "13.4.13",
     "react": "18.2.0",
     "react-dom": "18.2.0"
